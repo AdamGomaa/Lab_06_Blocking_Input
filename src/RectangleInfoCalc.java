@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class RectangleInfo {
+public class RectangleInfoCalc {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double width = 0;
